@@ -10,4 +10,4 @@
   - [Configuring On-premises Active Directory within Azure VMs]
   - [Network Security Groups (NSGs) and Inspecting Network Protocols]
 - <b>GitHub Reppository</b>
-  - [How to Create a New Repository on GitHub]
+  - [How to Create a New Repository on GitHub]https://github.com/AOBTenn/How-To-Create-a-New-GitHub-Repository.git
