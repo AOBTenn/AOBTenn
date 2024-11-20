@@ -3,11 +3,11 @@
 <h2>👨‍💻 Information Technology Projects:</h2>
 
 - <b>osTicket (Help Desk Ticketing System)</b>
-  - [osTicket: Prerequisites and Installation]
-  - [osTicket: Post-Installation Configuration]
-  - [osTicket: Ticket Lifecycle Examples]
+  - [osTicket: Prerequisites and Installation](https://github.com/AOBTenn/osTicket-Prerequisites-and-Installation.git)
+  - [osTicket: Post-Installation Configuration](https://github.com/AOBTenn/osTicket-Post-Installation-Configuration.git)
+  - [osTicket: Ticket Lifecycle Examples](https://github.com/AOBTenn/osTicket-Ticket-Lifecycle-Examples.git)
 - <b>Microsoft Azure</b>
-  - [Configuring On-premises Active Directory within Azure VMs]
-  - [Network Security Groups (NSGs) and Inspecting Network Protocols]
+  - [Installing Active Directory within Azure VMs](https://github.com/AOBTenn/Installing-Active-Directory-within-Azure-VMs.git)
+  - [Configuring On-premises Active Directory within Azure VMs](https://github.com/AOBTenn/Configuring-On-premises-Active-Directory-within-Azure-VMs.git)
 - <b>GitHub Reppository</b>
-  - [How to Create a New Repository on GitHub]https://github.com/AOBTenn/How-To-Create-a-New-GitHub-Repository.git
+  - [How to Create a New Repository on GitHub](https://github.com/AOBTenn/How-To-Create-a-New-GitHub-Repository.git)
