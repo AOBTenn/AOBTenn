@@ -9,5 +9,4 @@
 - <b>Microsoft Azure</b>
   - [Installing Active Directory within Azure VMs](https://github.com/AOBTenn/Installing-Active-Directory-within-Azure-VMs.git)
   - [Configuring On-premises Active Directory within Azure VMs](https://github.com/AOBTenn/Configuring-On-premises-Active-Directory-within-Azure-VMs.git)
-- <b>GitHub Reppository</b>
-  - [How to Create a New Repository on GitHub](https://github.com/AOBTenn/How-To-Create-a-New-GitHub-Repository.git)
+
