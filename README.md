@@ -10,3 +10,7 @@
 - <b>Microsoft Azure</b>
   - [VPN Setup and Usage Within Microsoft Azure](https://github.com/AOBTenn/VPN-Setup-and-Usage-Within-Microsoft-Azure.git)
 
+- <b>Active Directory</b>
+  - [Active Directory: Preparing Infrastructure Within Azure]
+  - [Active Directory: Deploying Active Directory Within Azure]
+  - [Active Directory: Creating Users, Group Policy, and Managing Accounts Within Azure]
