@@ -2,7 +2,7 @@
 
 <h2>👨‍💻 Information Technology Projects:</h2>
 
-- <b>osTicket (Open Source Help Desk Ticketing System)</b>
+- <b>osTicket (Free Help Desk Ticketing System)</b>
   - [osTicket: Prerequisites and Installation](https://github.com/AOBTenn/osTicket-Prerequisites-and-Installation.git)
   - [osTicket: Post Installation Configuration](https://github.com/AOBTenn/osTicket-Post-Installation-Configuration.git)
   - [osTicket: Creating And Working Tickets](https://github.com/AOBTenn/osTicket-Ticket-Lifecycle-Examples.git)
