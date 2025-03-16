@@ -9,7 +9,6 @@
 
 - <b>Microsoft Azure</b>
   - [Azure: VPN Setup and Usage Within Microsoft Azure](https://github.com/AOBTenn/VPN-Setup-and-Usage-Within-Microsoft-Azure.git)
-  - [Azure: Monitoring Network Traffic Within Microsoft Azure](https://github.com/AOBTenn/Azure-Monitoring-Network-Traffic-Within-Microsoft-Azure.git)
 
 - <b>Active Directory</b>
   - [Active Directory: Installation and Infrastructure Preparation](https://github.com/AOBTenn/Active-Directory-Installation-and-Infrastructure-Preparation.git)
