@@ -12,5 +12,5 @@
 
 - <b>Active Directory</b>
   - [Active Directory: Installation and Infrastructure Preparation](https://github.com/AOBTenn/Active-Directory-Installation-and-Infrastructure-Preparation.git)
-  - [Active Directory: Configuration and Deployment of Active Directory](https://github.com/AOBTenn/Active-Directory-Configuration-and-Deployment-of-Active-Directory.git)
+  - [Active Directory: Configuration and Deployment](https://github.com/AOBTenn/Active-Directory-Deployment-and-Configuration.git)
   - [Active Directory: Creating Users, Using Group Policy, and Managing Accounts](https://github.com/AOBTenn/Active-Directory-Creating-Users-Using-Group-Policy-and-Managing-Accounts.git)
