@@ -11,6 +11,6 @@
   - [Azure: VPN Setup and Usage Within Microsoft Azure](https://github.com/AOBTenn/VPN-Setup-and-Usage-Within-Microsoft-Azure.git)
 
 - <b>Active Directory</b>
-  - [Active Directory: Installation and Infrastructure Preparation](https://github.com/AOBTenn/Active-Directory-Installation-and-Infrastructure-Preparation.git)
+  - [Active Directory: Infrastructure Preparation](https://github.com/AOBTenn/Active-Directory-Installation-and-Infrastructure-Preparation.git)
   - [Active Directory: Configuration and Deployment](https://github.com/AOBTenn/Active-Directory-Deployment-and-Configuration.git)
   - [Active Directory: Creating Users, Using Group Policy, and Managing Accounts](https://github.com/AOBTenn/Active-Directory-Creating-Users-Using-Group-Policy-and-Managing-Accounts.git)
