@@ -13,7 +13,7 @@
 
 - <b>Microsoft Azure</b>
   - [Azure: VPN Setup and Usage Within Microsoft Azure](https://github.com/AOBTenn/VPN-Setup-and-Usage-Within-Microsoft-Azure.git)
-  - [Azure: Networking, Ports, and Protocols Within Microsoft Azure](https://github.com/AOBTenn/Networking-Ports-and-Protocols-Within-Microsoft-Azure.git)
+  - [Azure: Network Traffic Within Microsoft Azure](https://github.com/AOBTenn/Networking-Ports-and-Protocols-Within-Microsoft-Azure.git)
  <p> 
 </p>
 
