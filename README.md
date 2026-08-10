@@ -1,4 +1,4 @@
-<h1>Hi, I'm Adrian Bellamy, an IT Professional</a>☺</h1>
+<h1>Adrian Bellamy, IT Professional Specializing in Help Desk, Technical Support, Networking, and security</a>☺</h1>
 
 <h2>👨‍💻 Information Technology Projects:</h2>
  <p> 
